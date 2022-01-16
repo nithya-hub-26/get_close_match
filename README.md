@@ -1,4 +1,4 @@
-# get_close_match
+# get_close_matches
 
 get_close_matches is a function which can be imported from difflib, it is used to get a close matches of a word given.
 This concept is used in the search engines like google where it shows results for the close match if the word which user enters is not a dictionary word.
