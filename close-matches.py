@@ -10,7 +10,7 @@ if word == "calendar":
     calendar = calendar.calendar(yr)
 
 
-def check(w):
+    def check(w):
     w = w.lower()  # the entered words are lowered
     if w in jsonfile:
         if w == "calendar":
